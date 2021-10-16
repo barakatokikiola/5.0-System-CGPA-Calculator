@@ -16,7 +16,7 @@ body{
 div .input{
   margin-left:0.18em;
   border:solid 0.5px;
-  border-radius: 10%;
+  border-radius: 5px;
 }
 
 .btn1{
